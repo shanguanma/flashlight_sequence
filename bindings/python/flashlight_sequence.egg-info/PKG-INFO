@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: flashlight-sequence
-Version: 0.0.0+0f9afa8.d20240104
+Version: 0.0.0+ba1e357.d20240307
 Summary: Flashlight Sequence bindings for Python
 Home-page: https://github.com/flashlight/sequence
 Author: Jacob Kahn
