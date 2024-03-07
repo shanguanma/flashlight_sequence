@@ -14,3 +14,10 @@ Avoid unnecessary errors caused by upstream updates
 `https://github.com/shanguanma/fairseq_speechtext/blob/main/examples/speech_recognition/w2l_decoder.py`
 `https://github.com/shanguanma/fairseq_speechtext/blob/main/examples/speech_recognition/new/infer_simple.py` 
 
+
+# How to install it ?
+```
+export USE_CUDA=1 # for speed up decoding
+git clone https://github.com/shanguanma/flashlight_sequence.git && cd flashlight_sequence
+pip install .
+```
